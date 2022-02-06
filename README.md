@@ -4,8 +4,8 @@ I am a Front-End Developer with a passion for clean UIs and learning about clean
 
 ### Social Media
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&logo=LinkedIn)](https://www.linkedin.com/in/tomzacchia/)
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=%231DA1F2&logo=Twitter)](https://twitter.com/tomtomatoh)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=%230A66C2&logo=LinkedIn)](https://www.linkedin.com/in/tomzacchia/)  
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=%231DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/tomtomatoh)
 
 
 ### 🧰 My Skills
