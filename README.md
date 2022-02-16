@@ -25,7 +25,7 @@ I am a Front-End Developer with a passion for clean UIs and learning about clean
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 [![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=%23000000&style=for-the-badge&logo=Vercel)](https://vercel.com/)
-[![Vite](https://img.shields.io/badge/Vite-?style=for-the-badge&logo=vite&logoColor=white#646CFF)](https://vitejs.dev/)
+[![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=%23646CFF&style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 <!--
 **tomzacchia/tomzacchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
